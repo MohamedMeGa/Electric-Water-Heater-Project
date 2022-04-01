@@ -54,6 +54,6 @@
 	#define	DIO_u8_PIN_DIR_28	DIO_u8_INPUT
 	#define	DIO_u8_PIN_DIR_29	DIO_u8_INPUT
 	#define	DIO_u8_PIN_DIR_30	DIO_u8_INPUT
-	#define	DIO_u8_PIN_DIR_31	DIO_u8_INPUT
+	#define	DIO_u8_PIN_DIR_31	DIO_u8_OUTPUT
 	
 #endif

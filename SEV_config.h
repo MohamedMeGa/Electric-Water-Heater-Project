@@ -16,16 +16,16 @@
 	#define	SEV_0_U8_E		DIO_PIN5
 	#define	SEV_0_U8_F		DIO_PIN6
 	#define	SEV_0_U8_G		DIO_PIN7
-	#define	SEV_0_U8_H		DIO_PIN7
+	#define	SEV_0_U8_H		DIO_PIN31
 	
 	/**	config of left	SEVEN SEGMENT Pins A -> H	*/
-	#define	SEV_1_U8_A		DIO_PIN8
-	#define	SEV_1_U8_B		DIO_PIN9
-	#define	SEV_1_U8_C		DIO_PIN10
-	#define	SEV_1_U8_D		DIO_PIN11
-	#define	SEV_1_U8_E		DIO_PIN12
-	#define	SEV_1_U8_F		DIO_PIN13
-	#define	SEV_1_U8_G		DIO_PIN14
-	#define	SEV_1_U8_H		DIO_PIN15
+	#define	SEV_1_U8_A		DIO_PIN16
+	#define	SEV_1_U8_B		DIO_PIN17
+	#define	SEV_1_U8_C		DIO_PIN18
+	#define	SEV_1_U8_D		DIO_PIN19
+	#define	SEV_1_U8_E		DIO_PIN20
+	#define	SEV_1_U8_F		DIO_PIN21
+	#define	SEV_1_U8_G		DIO_PIN22
+	#define	SEV_1_U8_H		DIO_PIN23
 	
 #endif
